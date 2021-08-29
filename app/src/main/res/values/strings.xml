@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Toady</string>
+    <string-array name="dropdownGender">
+        <item>Gender *</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
